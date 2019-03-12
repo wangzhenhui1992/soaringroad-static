@@ -1,2 +1,2 @@
 # soaringroad-static
-static resources for http://new.soaringroad.com
+static resources for https://www.soaringroad.com
